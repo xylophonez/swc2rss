@@ -1,0 +1,19 @@
+{
+  "name": "rss_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arweave": "^1.10.16",
+    "express": "^4.17.1",
+    "redstone-smartweave": "^0.3.10-alpha.8",
+    "rss": "^1.2.2",
+    "rss-generator": "^0.0.3",
+    "smartweave": "^0.4.45"
+  }
+}
